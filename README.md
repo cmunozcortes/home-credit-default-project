@@ -1,2 +1,2 @@
-# home_credit_default_project
+# Home Credit Default Project
 Final project for CS 249 Fundamental of Machine Learning
